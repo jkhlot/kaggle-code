@@ -48,7 +48,7 @@
 >* [Rank 1 solution1](https://github.com/FangxiangFeng/deepnet/tree/master/deepnet/examples/multimodal_icml2013) by MMDL.
 >* [Solution thread.](http://www.kaggle.com/c/challenges-in-representation-learning-multi-modal-learning/forums/t/4677/no-one-say-how-to-do-it/25023#post25023)
 
-### [De[tecting Insults in Social Commentary](http://www.kaggle.com/c/detecting-insults-in-social-commentary)
+### [Detecting Insults in Social Commentary](http://www.kaggle.com/c/detecting-insults-in-social-commentary)
 >* [Rank 1 solution description](http://www.kaggle.com/c/detecting-insults-in-social-commentary/forums/t/2744/what-did-you-use/14755#post14755)4 and [code](http://www.kaggle.com/c/detecting-insults-in-social-commentary/forums/t/2744/what-did-you-use/15951#post15951) by Vivek Sharma.
 >* [Rank 2 solution1](https://github.com/tuzzeg/detect_insults) by tuzzeg.
 >* [Rank 3 solution description](http://webmining.olariu.org/my-first-kaggle-competition-and-how-i-ranked/) Andrei Olariu.
